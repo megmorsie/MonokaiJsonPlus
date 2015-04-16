@@ -1,6 +1,6 @@
 # Sublime Monokai JSON+ Theme
  
-The default Sublime Monokai Theme extended by rules that color JSON nicely up to 10 Levels!
+The default Sublime Monokai Theme extended by rules that color JSON beautifully up to ten levels!
 
 ## Examples
 ![alt text](img/dictionary.png "Dictionary")
@@ -9,30 +9,28 @@ The default Sublime Monokai Theme extended by rules that color JSON nicely up to
 
 ## Installation
 
+The easiest way to install the Monokai JSON+ theme is via Package Manager!
+
+### Package Manager
+1. In Sublime press `CMD+SHIFT+P`
+2. Select `Package Control: Install Package`
+3. Select `Monokai JSON+`
+4. Select the theme: `Sublime Text > Preferences > Color Scheme > MonokaiJSON+`
+
+
+### Manual
 1. Copy the MonokaiJSON+.tmTheme file to your Sublime 2/3 Package Folder:
-	
-	cp MonokaiJSON+.tmTheme ~/Library/Application Support/Sublime Text 3/Packages/
-2. Go to: `Sublime Text/Preferences/Color Scheme` and select the MonokaiJSON+ Theme
+	`cp MonokaiJSON+.tmTheme ~/Library/Application Support/Sublime Text 3/Packages/`
+2. Select the theme: `Sublime Text > Preferences > Color Scheme > MonokaiJSON+`
 
 ## Customization
 
-Take a look at the code/generateRules.py python script. It generates the JSON rules needed to color the multiple levels and all possible combinations of arrays, dictionaries and strings.
+Take a look at the Monokai JSON+ - Development Project: https://github.com/ColibriApps/MonokaiJsonPlus-Development
 
-1. You can customize the colors or add/remove levels.
-2. Run the python script: `python generateRules.py`
-3. Open your own Sublime Theme and remove all existing JSON rules (search for 'json')
-3. Copy the script output at the end of all other rules just before the `</array>`
- 
-## Contributing
- 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request ;)
- 
 ## History
- 
+
+### 2015-04-16
+- 1.0.1 Split development and package manager project; Updated readme; Name fix
 ### 2014-12-21
 - 1.0.0 Initial Version
 
@@ -40,7 +38,7 @@ Take a look at the code/generateRules.py python script. It generates the JSON ru
  
 The MIT License
 
-Copyright (c) 2014 ColibriApps. https://www.colibriapps.com
+Copyright (c) 2014-2015 ColibriApps. https://www.colibriapps.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
