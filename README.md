@@ -29,10 +29,9 @@ Take a look at the Monokai JSON+ - Development Project: https://github.com/Colib
 
 ## History
 
-### 2015-04-16
-- 1.0.1 Split development and package manager project; Updated readme; Name fix
-### 2014-12-21
-- 1.0.0 Initial Version
+- 1.0.2 (2015-04-16) Updated readme; Cleanup
+- 1.0.1 (2015-04-16) Split development and package manager project; Updated readme; Name fix
+- 1.0.0 (2014-12-21) Initial Version
 
 ## License
  
