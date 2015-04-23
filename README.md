@@ -29,6 +29,7 @@ Take a look at the [Monokai JSON+ - Development Project](https://github.com/Coli
 
 ## History
 
+- 1.0.3 (2015-04-23) Added minified version
 - 1.0.2 (2015-04-16) Updated readme; Cleanup
 - 1.0.1 (2015-04-16) Split development and package manager project; Updated readme; Name fix
 - 1.0.0 (2014-12-21) Initial Version
