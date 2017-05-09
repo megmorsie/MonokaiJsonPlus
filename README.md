@@ -9,7 +9,7 @@ The default Sublime Monokai Theme extended by rules that color JSON beautifully 
 
 ## Installation
 
-The easiest way to install the Monokai JSON+ theme is via [Package Control](https://packagecontrol.io/packages/Monokai JSON+)
+The easiest way to install the Monokai JSON+ theme is via [Package Control](https://packagecontrol.io/packages/Monokai%20JSON%2B)
 
 ### Package Manager
 1. In Sublime press `CMD+SHIFT+P`
