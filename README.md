@@ -1,38 +1,20 @@
-# Sublime Monokai JSON+ Theme
+# Pleasant Theme for Sublime Text 2 & 3
  
-The default Sublime Monokai Theme extended by rules that color JSON beautifully up to ten levels!
+Colors are teal, purple, seafoam, light indigo, and a tiny bit of pink and white. Includes colors for up to 10 levels of JSON.
+This theme is simply based on my favorite colors that I'll be able to look at for hours.
 
 ## Examples
-![alt text](img/dictionary.png "Dictionary")
-![alt text](img/array.png "Array")
-![alt text](img/mixed.png "Mixed")
+![alt text](img/php-search.PNG "Searching on PHP File")
+![alt text](img/php-assoc-array.PNG "Associative Array in PHP")
+![alt text](img/json.PNG "10 Levels of JSON")
+![alt text](img/css.PNG "CSS File")
 
 ## Installation
 
-The easiest way to install the Monokai JSON+ theme is via [Package Control](https://packagecontrol.io/packages/Monokai%20JSON%2B)
-
-### Package Manager
-1. In Sublime press `CMD+SHIFT+P`
-2. Select `Package Control: Install Package`
-3. Select `Monokai JSON+`
-4. Select the theme: `Sublime Text > Preferences > Color Scheme > MonokaiJSON+`
-
-
-### Manual
-1. Copy the MonokaiJSON+.tmTheme file to your Sublime 2/3 Package Folder:
-	`cp MonokaiJSON+.tmTheme ~/Library/Application Support/Sublime Text 3/Packages/`
-2. Select the theme: `Sublime Text > Preferences > Color Scheme > MonokaiJSON+`
-
-## Customization
-
-Take a look at the [Monokai JSON+ - Development Project](https://github.com/ColibriApps/MonokaiJsonPlus-Development)
-
-## History
-
-- 1.0.3 (2015-04-23) Added minified version
-- 1.0.2 (2015-04-16) Updated readme; Cleanup
-- 1.0.1 (2015-04-16) Split development and package manager project; Updated readme; Name fix
-- 1.0.0 (2014-12-21) Initial Version
+1. Copy the Pleasant Theme.tmTheme file to your Sublime 2/3 Package Folder:
+	`cp Pleasant Theme.tmTheme ~/Library/Application Support/Sublime Text 3/Packages/` on Mac
+	`cp Pleasant Theme.tmTheme %UserProfile%\AppData\Roaming\Sublime Text 3\Packages` on Windows
+2. Select the theme: `Sublime Text > Preferences > Color Scheme > Pleasant Theme`
 
 ## License
  
